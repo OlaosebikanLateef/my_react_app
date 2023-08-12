@@ -1,0 +1,11 @@
+npm i -g create react app
+
+ create-react-app counter-app
+
+ imrc -import react
+ cc ->class
+ sfc -> to import function
+
+ import  Header from './header';
+import Section from './section';
+import Footer from './footer';
